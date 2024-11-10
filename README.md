@@ -36,7 +36,7 @@
   <p align="center">
     My README
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/production-app/dashboard/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://dashboard-adebayo.vercel.app/">View Demo</a>
